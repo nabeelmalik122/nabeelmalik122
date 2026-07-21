@@ -1,296 +1,50 @@
-Act as a Senior GitHub Profile Designer, Senior Frontend Developer, Open Source Contributor, UI/UX Designer, Branding Expert, and Technical Writer.
+# Hi👋 there, I'm Nabeel Muhammad!
 
-Your task is to create a world-class, modern, premium GitHub Profile README for:
+I'm a **Senior Frontend Developer** and Computer Science student with a passion for building responsive, scalable, and user-friendly web applications. I enjoy creating solutions that blend clean functionality with modern design.
 
-# Nabeel Muhammad
+---
 
-Repository Name:
+### 💻 Skills
 
-NabeelMuhammad/README.md
+* **Languages:** HTML5, CSS3, JavaScript (ES6+), Node.js
+* **Frameworks & Libraries:** React, Vite, Express.js, Tailwind CSS
+* **Tools & Platforms:** Git, GitHub, Vercel, Postman
 
-The README should look like one of the best GitHub profile READMEs found on GitHub.
+---
 
-The design should be clean, modern, premium, attractive, developer-friendly, and recruiter-friendly.
+### 🌟 Featured Projects
 
-Do NOT make it look basic.
+* **[QRVerse Scanner](https://github.com/nabeelmalik122)** – Monorepo QR scanner web app deployed live on Vercel.
+* **[Urban Cuisine](https://github.com/nabeelmalik122)** – A modern fine-dining restaurant web application.
+* **[Restaurant Ordering Web App](https://github.com/nabeelmalik122)** – Interactive online restaurant ordering platform.
 
-━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## Theme
+### 📊 GitHub Stats
 
-Professional
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelmalik122&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelmalik122&layout=compact&theme=dark)
 
-Minimal
+---
 
-Modern
+### 📫 Connect With Me
 
-Dark Friendly
+* **LinkedIn:** [in/nabeelmuhammad432](https://linkedin.com/in/nabeelmuhammad432)
+* **GitHub:** [github.com/nabeelmalik122](https://github.com/nabeelmalik122)
+* **Email:** [maliknabeelkhattak432@gmail.com](mailto:maliknabeelkhattak432@gmail.com)
+* **WhatsApp:** [+92 307 9009095](https://wa.me/923079009095)
 
-Developer Portfolio Style
+---
 
-━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ Technologies I Work With
 
-## Include
-
-# Animated Welcome Header
-
-Large greeting
-
-Hi 👋, I'm Nabeel Muhammad
-
-Typing animation introducing me as
-
-• Full Stack Developer
-• MERN Stack Learner
-• Frontend Developer
-• Computer Science Student
-• Open Source Enthusiast
-• Lifelong Learner
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Hero Banner
-
-Professional Developer Banner
-
-Dark theme
-
-Coding setup
-
-Laptop
-
-Coffee
-
-Clean Desk
-
-Blue and Purple Glow
-
-Modern UI
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# About Me
-
-Include professional introduction.
-
-Mention
-
-• Computer Science Student
-• Abdul Wali Khan University Mardan
-• Full Stack Development Trainee
-• Passionate Web Developer
-• MERN Stack Learning
-• Building Real World Projects
-• Always Learning New Technologies
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Skills Section
-
-Beautiful icons
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Git
-
-GitHub
-
-Responsive Design
-
-REST API
-
-JSON
-
-VS Code
-
-Figma
-
-Vercel
-
-Render
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Tech Stack
-
-Use colorful badges.
-
-Keep everything perfectly aligned.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Current Learning
-
-Mention
-
-Advanced JavaScript
-
-React.js
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Full Stack Development
-
-UI/UX
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Featured Projects
-
-Create beautiful cards.
-
-Portfolio Website
-
-Restaurant Ordering Website
-
-Coffee Shop Website
-
-Email Spam Detection System
-
-Personal Dashboard
-
-MERN Projects
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# GitHub Statistics
-
-Include
-
-GitHub Stats
-
-Top Languages
-
-Contribution Graph
-
-GitHub Streak
-
-Activity Graph
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Connect With Me
-
-GitHub
-
-LinkedIn
-
-Portfolio
-
-Email
-
-Instagram (optional)
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Developer Quote
-
-Random Programming Quote
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Coding GIF
-
-Professional coding animation.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Visitor Counter
-
-Profile Views Counter
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Trophy Section
-
-GitHub Trophies
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Contribution Snake
-
-Animated Contribution Snake
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-# Footer
-
-Designed with ❤️ by Nabeel Muhammad
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-## Design Rules
-
-Use
-
-• Shields.io Badges
-
-• Markdown Tables
-
-• GitHub Readme Stats
-
-• GitHub Streak Stats
-
-• GitHub Activity Graph
-
-• Typing SVG
-
-• Modern Icons
-
-• Professional Emojis
-
-• SVG Animations
-
-Everything must be centered beautifully.
-
-Spacing should be perfect.
-
-No unnecessary empty spaces.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-## Writing Style
-
-Professional
-
-Friendly
-
-Developer Style
-
-Natural English
-
-Recruiter Friendly
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-## Important
-
-Do NOT generate placeholder text.
-
-Write complete production-ready README.md.
-
-Everything should be fully responsive on GitHub.
-
-Every badge should have matching colors.
-
-Every section should feel premium.
-
-The final README should look like one of the top GitHub developer profiles.
-
-Return only the complete README.md code in Markdown.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
