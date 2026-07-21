@@ -23,7 +23,8 @@ I'm a **Senior Frontend Developer** and Computer Science student with a passion 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelmalik122&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nabeelmalik122&show_icons=true&theme=tokyonight" alt="Nabeel's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nabeelmalik122&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
 ---
 
